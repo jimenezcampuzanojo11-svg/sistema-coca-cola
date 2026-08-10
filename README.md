@@ -33,7 +33,7 @@ y ejecutarlo directamente en tu computadora (requiere tener instalado Java Runti
 
 *   🗄️ [Prácticas en MySQL](https://github.com):
     Mi repositorio donde gestiono, diseño y estructuro bases de datos relacionales.
-*   💻 [Java Básico](https://github.com):
+*   💻 [Java Básico](https://github.com/jimenezcampuzanojo11-svg/fundamentos-y-logica-java):
     Programas iniciales, algoritmos y fundamentos de consola en Java.
 *   ☕ [Java Swing Prácticas](https://github.com):
     Colección de 17 ejercicios interactivos diseñados completamente mediante código puro.
