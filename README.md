@@ -35,5 +35,5 @@ y ejecutarlo directamente en tu computadora (requiere tener instalado Java Runti
     Mi repositorio donde gestiono, diseño y estructuro bases de datos relacionales.
 *   💻 [Java Básico](https://github.com/jimenezcampuzanojo11-svg/fundamentos-y-logica-java):
     Programas iniciales, algoritmos y fundamentos de consola en Java.
-*   ☕ [Java Swing Prácticas](https://github.com):
+*   ☕ [Java Swing Prácticas](https://github.com/jimenezcampuzanojo11-svg/java-swing-practicas):
     Colección de 17 ejercicios interactivos diseñados completamente mediante código puro.
