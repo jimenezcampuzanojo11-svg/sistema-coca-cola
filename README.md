@@ -31,7 +31,7 @@ y ejecutarlo directamente en tu computadora (requiere tener instalado Java Runti
 
 ## 🔗 Proyectos Relacionados
 
-*   🗄️ [Prácticas en MySQL](https://github.com):
+*   🗄️ [Prácticas en MySQL](https://github.com/jimenezcampuzanojo11-svg/curso-mysql-practicas):
     Mi repositorio donde gestiono, diseño y estructuro bases de datos relacionales.
 *   💻 [Java Básico](https://github.com/jimenezcampuzanojo11-svg/fundamentos-y-logica-java):
     Programas iniciales, algoritmos y fundamentos de consola en Java.
